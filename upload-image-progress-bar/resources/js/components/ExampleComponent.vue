@@ -175,7 +175,7 @@ section .details span{
 .content .loading-bar .loading{
   height: 100%;
   width: 0%;
-  background: #6990F2;
+  background: #1aaa4c;
   border-radius: inherit;
 }
 .uploaded-area{
